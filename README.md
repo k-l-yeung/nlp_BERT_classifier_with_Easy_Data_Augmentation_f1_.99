@@ -7,7 +7,7 @@
   - EDA appears to be a valuable resource for text classification
  
 ##### Performance of BERT with EDA on spam classification 
-![image.png](attachment:image.png)
+!![image](https://user-images.githubusercontent.com/58142773/147840942-fcdfe8bc-f640-45d7-9d2b-1bdc66da4ace.png)
 
 #### Technique / libraries used
 - Key libraries: sklearn, nltk, tensorflow, imblearn
